@@ -8,9 +8,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can sign in using OAuth login flow.
-- [ ] User can view last 20 tweets from their home timeline.
-- [ ] The current signed in user will be persisted across restarts.
+- [x] User can sign in using OAuth login flow.
+- [x] User can view last 20 tweets from their home timeline.
+- [x] The current signed in user will be persisted across restarts.
 - [ ] In the home timeline, user can view tweet with the user profile picture, username, tweet text, and timestamp.  In other words, design the custom cell with the proper Auto Layout settings.  You will also need to augment the model classes.
 - [ ] User can pull to refresh.
 - [ ] User can compose a new tweet by tapping on a compose button.
@@ -38,7 +38,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/tresjoliebabe/Week-3/blob/master/Twitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
